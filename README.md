@@ -4,3 +4,7 @@ Repository which can help to grasp android windows insets idea and Edge-To-Edge 
 ![](https://github.com/vovaksenov99/AndroidInsetUsageSample/blob/master/A.PNG)
 ![](https://github.com/vovaksenov99/AndroidInsetUsageSample/blob/master/B.PNG)
 ![](https://github.com/vovaksenov99/AndroidInsetUsageSample/blob/master/C.PNG)
+
+
+PDF Doc with explanation
+https://github.com/vovaksenov99/AndroidInsetUsageSample/blob/master/InsetsPDF.pdf
